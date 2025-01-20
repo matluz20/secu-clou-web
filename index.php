@@ -22,7 +22,7 @@
 </head>
 <body>
 
-    <h1>Test de Connexion à la Base de Données</h1>
+    <h1>Test de Connexion à la Base de Données RDS</h1>
 
     <!-- Bouton pour tester la connexion -->
     <button onclick="testerConnexion()">Tester Connexion</button>
