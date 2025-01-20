@@ -1,6 +1,6 @@
 <?php
 // Informations de connexion à la base de données
-$host = 'terraform-20250120194058540600000001.cl2kgaoimc9v.eu-west-3.rds.amazonaws.com'; 
+$host = 'terraform-20250120212850653000000007.cl2kgaoimc9v.eu-west-3.rds.amazonaws.com'; 
 $dbname = 'testdb';   
 $username = 'admin';  
 $password = 'SuperSecretPassword123'; // Mot de passe de la base de données
