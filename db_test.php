@@ -1,9 +1,9 @@
 <?php
 // Paramètres de connexion
-$host = 'terraform-20250120194058540600000001.cl2kgaoimc9v.eu-west-3.rds.amazonaws.com';
+$host = 'terraform-20250120212850653000000007.cl2kgaoimc9v.eu-west-3.rds.amazonaws.com';
 $username = 'admin';
 $password = 'SuperSecretPassword123';
-$database = 'terraform-20250120194058540600000001';
+$database = 'terraform-20250120212850653000000007';
 
 $test_result = '';
 
